@@ -1,0 +1,52 @@
+Commands:                                                                                                
+1) whoami:Gives the name of the currently logged in user.                                                
+2) man: Manual command gives the information of the given command and also all of it's Flags.            
+3) Clear: Clear clears all the previous commands run on the terminal.                                   
+4) pwd: print working directory prints the current folder path.                                          
+5) ls: list command prints all the files present in the current directory.                               
+6) cd: Change Directory command is used to move into one directory from other.
+7) rm: removes any file or directory.                                                                    
+8) mkdir: make directory command creates a new directory.
+9) touch: crates an empty file.                                                                          
+10) mv: Used to move files between directories or can also be used to rename files.
+11) cp: used to copy files or directories.                                                               
+12) head: used to show first part of a file.                                                             
+13) tail: used to show last part of a file.                                                              
+14) date: used to show date and time.                                                                    
+15) cat: used to concatenate files.                                                                      
+16) less: used to show contents of a file in an interactive UI.                                          
+17) echo: used to print the output of the argument passed to it.                                         
+18) wc: used to print some information of a file like memory.                                            
+19) sort: used to sort lines of text in a text file.                                                     
+20) diff: used to find differences between files.                                                        
+21) find: used to search for files in a directory  hierarchy.                                            
+22) grep: used to search inside the files.                                                               
+23) du - used to estimate disk usage of files.                                                            
+24) df - used to check the disk usage of file systems.                                                   
+25) history: used to check all the commands executed previously.                                         
+26) ps: used to view the current processes running in the computer.                                      
+27) top: used to view the real time information of the processes running.                                
+28) kill: used to send various signals like term to a process.                                           
+29) killall: used to send signals to multiple processes.                                                 
+30) jobs: used to view the status of all the background processes.                                       
+31) fg: used to resume a stopped process in the foreground.                                              
+32) bg: used to resume stopped process in the background.                                                
+33) gzip: used to compress a file using LZ77 compression protocol.                                       
+34) gunzip: used to decompress a .gz file.                                                               
+35) tar: used to create an archive grouping multiple files in a single file.                             
+36) alias: used to create customized commands using set of existing commands as meaning that.            
+37) xargs: used to make the output of command into an argument for a different command.                  
+38) ln: used to create a link/shortcut to another file.                                                  
+39) who: used to display the users logged in the system.                                                 
+40) su: used to switch users from a terminal shell.                                                      
+41) sudo: used to run commands as the root user.                                                         
+42) psswd: used to change the password of users.                                                         
+43) chown: used to change the ownership of a file or directory.                                          
+44) chmod: used to change the permissions of a file or directory.
+45) dmesg: used to display all the kernel related messages.                                              
+46) unsame: used to display system related information.                                                  
+47) ifconfig: used to assign an address to a network interface.                                           
+48) vi: used to create a file and automatically a text editor.                                           
+49) bash: used to execute the bash script.
+50) ssh: used to securely connect to a remote server over a network using secure shell protocol.
+
