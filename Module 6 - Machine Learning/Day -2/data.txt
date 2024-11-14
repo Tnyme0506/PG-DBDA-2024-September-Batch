@@ -1,0 +1,4 @@
+how is this name=ravi and then later marks= [10 20 30]
+name= manu hello world of marks=[40 50 60] then also data
+data is find name= hari marks= [70 80 90] from then that
+this is how data name= guru of then this marks= [25 35 45]
